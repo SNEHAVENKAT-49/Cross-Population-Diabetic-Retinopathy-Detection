@@ -1,15 +1,27 @@
-# Screenshots
+---
 
-## Project Workflow
+## Screenshots
 
-This folder contains screenshots captured during project execution.
+The `screenshots/` folder contains workflow illustrations that demonstrate the major stages of the project, including:
 
-### Screenshots Included
+- Dataset Loading
+- Image Preprocessing
+- Feature Extraction
+- Model Training
+- Final Prediction
 
-- Dataset loading
-- Image preprocessing
-- Feature extraction
-- Model training
-- Final output/prediction
+These images are provided for **reference and documentation purposes** to help readers understand the project pipeline. The actual experimental results, graphs, and performance evaluations are available in the **results/** and **graphs/** folders.
 
+---
 
+## Repository Structure
+
+```text
+Cross-Population-Diabetic-Retinopathy-Detection
+│── README.md
+│── crosspopulationcode.ipynb
+│── dataset/
+│── graphs/
+│── results/
+└── screenshots/
+```
