@@ -3,8 +3,8 @@
 This folder contains screenshots captured during project execution.
 
 ## Screenshots
-- Data preprocessing
-- Feature extraction
-- PCA output
-- Model execution
-- Final prediction output
+Dataset loading
+Image preprocessing
+Feature extraction
+Model training
+Final output/prediction
